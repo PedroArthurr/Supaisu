@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 20,
+    "editor.autoClosingQuotes": "always",
+    "editor.codeActionsOnSave": null,
+    "editor.mouseWheelScrollSensitivity": 0.7,
+    "editor.rulers": [
+    
+    ],
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "editor.suggest.showReferences": false,
+    "csharp.referencesCodeLens.enabled": false
+}

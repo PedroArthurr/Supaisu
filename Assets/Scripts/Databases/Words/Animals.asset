@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519a3327266460146a780d15d71c7369, type: 3}
+  m_Name: Animals
+  m_EditorClassIdentifier: 
+  alphabet: 
+  kanaWord:
+  - "\u3069\u3046\u3076\u3064\u3001\u52D5\u7269"
+  - "\u3044\u306C\u3001\u72AC"
+  - "\u306D\u3053\u3001\u732B"
+  - "\u3046\u3057\u3001\u725B"
+  - "\u3046\u307E\u3001\u99AC"
+  - "\u3072\u3064\u3058\u3001\u7F8A"
+  - "\u3055\u308B\u3001\u733F"
+  - "\u306D\u305A\u307F\u3001\u9F20"
+  - "\u3068\u3089\u3001\u864E"
+  - "\u30AA\u30AA\u30AB\u30DF\u3001\u72FC"
+  - "\u3046\u3055\u304E\u3001\u514E"
+  - "\u308A\u3085\u3046\u3001\u7ADC"
+  - "\u3057\u304B\u3001\u9E7F"
+  - "\u304C\u307E\u3001\u87C7"
+  - "\u3057\u3057\u3001\u7345\u5B50"
+  - "\u30AD\u30EA\u30F3\u3001\u9E92\u9E9F"
+  - "\u3068\u308A\u3001\u9CE5"
+  - "\u306B\u308F\u3068\u308A\u3001\u9D8F"
+  - "\u3059\u305A\u3081\u3001\u96C0"
+  - "\u304B\u3089\u3059\u3001\u70CF"
+  - "\u305F\u304B\u3001\u9DF9"
+  - "\u3055\u304B\u306A\u3001\u9B5A"
+  - "\u3048\u3073\u3001\u6D77\u8001"
+  - "\u3044\u308F\u3057\u3001\u9C2F"
+  - "\u307E\u3050\u308D\u3001\u9BAA"
+  - "\u30A4\u30AB\u3001\u70CF\u8CCA"
+  - "\u3080\u3057\u3001\u866B"
+  - "\u3061\u3087\u3046\u3001\u8776"
+  - "\u30C8\u30F3\u30DC\u3001\u873B\u86C9"
+  - "\u30D0\u30C3\u30BF\u3001\u98DB\u8757"
+  - "\u30AF\u30E2\u3001\u8718\u86DB"
+  - "\u30DB\u30BF\u30EB\u3001\u86CD"
+  - "\u30AB\u30BF\u30C4\u30E0\u30EA\u3001\u8778\u725B"
+  - "\u304B\u3044\u3001\u8C9D"
+  - "\u304B\u3044\u304C\u3089\u3001\u8C9D\u6BBB"
+  - "\u30C8\u30AB\u30B2\u3001\u8725\u8734"
+  - "\u3078\u3073\u3001\u86C7"
+  - "\u304F\u307E\u3001\u718A"
+  romajiWord:
+  - doubutsu
+  - inu
+  - neko
+  - ushi
+  - uma
+  - hitsuji
+  - saru
+  - nezumi
+  - tora
+  - okami
+  - usagi
+  - ryuu
+  - shika
+  - gama
+  - shishi
+  - kirin
+  - tori
+  - niwatori
+  - suzume
+  - karasu
+  - taka
+  - sakana
+  - ebi
+  - iwashi
+  - maguro
+  - ika
+  - mushi
+  - chou
+  - tonbo
+  - batta
+  - kumo
+  - hotaru
+  - katatsumuri
+  - kai
+  - kaigara
+  - tokage
+  - hebi
+  - kuma
+  translatedToPT:
+  - animal
+  - "c\xE3o"
+  - gato
+  - vaca
+  - cavalo
+  - ovelha
+  - macaco
+  - rato
+  - tigre
+  - lobo
+  - coelho
+  - "drag\xE3o"
+  - veado
+  - sapo
+  - "le\xE3o"
+  - girafa
+  - "p\xE1ssaro"
+  - galinha
+  - pardal
+  - corvo
+  - "falc\xE3o"
+  - peixe
+  - "camar\xE3o"
+  - sardinha
+  - atum
+  - lula
+  - inseto
+  - borboleta
+  - "lib\xE9lula"
+  - gafanhoto
+  - aranha
+  - vaga-lume
+  - caracol
+  - marisco
+  - concha
+  - lagarto
+  - cobra
+  - urso
+  translatedToEN:
+  - animal
+  - dog
+  - cat
+  - cow
+  - horse
+  - 'sheep '
+  - 'monkey '
+  - mouse
+  - 'tiger '
+  - 'wolf '
+  - 'rabbit '
+  - 'dragon '
+  - 'deer '
+  - 'toad '
+  - 'lion '
+  - 'giraffe '
+  - 'bird '
+  - 'chicken '
+  - 'sparrow '
+  - crow
+  - falcon
+  - 'fish '
+  - shrimp
+  - 'sardine '
+  - 'tuna '
+  - 'squid '
+  - 'insect '
+  - 'butterfly '
+  - 'dragonfly '
+  - 'grasshopper '
+  - 'spider '
+  - 'firefly '
+  - 'snail '
+  - 'shellfish '
+  - 'shell '
+  - 'lizard '
+  - 'snake '
+  - bear

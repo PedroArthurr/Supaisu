@@ -1,0 +1,858 @@
+にんげん、人間 – human (ningen)
+じんるい、人類 – humanity (jinrui)
+ひと、人 – person (hito)
+おとこ、男 – male (otoko)
+おとこのひと、男の人 – man (otokonohito)
+おとこのこ、男の子 – boy (otokonoko)
+おんな、女 – female (onna)
+おんなのひと、女の人 – woman (onnanohito)
+おんなのこ、女の子 – girl (onnanoko)
+あかちゃん、赤ちゃん – baby (akachan)
+わかもの、若者 – youth, young person (wakamono)
+わたし、私 – I, myself (watashi)
+わたくし、私 – I, myself (watakushi [most formal])
+ぼく、僕 – I, myself (boku, mainly used by males)
+おれ、俺 – I, myself (ore, mainly used by males [informal])
+あたし、私 – I, myself (atashi, mainly used by females [softer sounding])
+しょうじょ、少女 – girl (shoujo)
+しょうねん、少年 – boy (shounen)
+Occupations
+いしゃ、医者 – doctor (isha)
+かんごし、看護師 – nurse (kangoshi)
+かんごふ、看護婦 – female nurse (kangofu)
+しかい、歯科医、はいしゃ、歯医者 – dentist (shikai, ha-isha)
+せいじか、政治家 – politician (seijika)
+べんごし、弁護士 – lawyer (bengoshi)
+しょうぼうし、消防士 – firefighter (shouboushi)
+けいさつかん、警察官 – police officer (keisatsukan)
+へいし、兵士 – soldier (heishi)
+けんちくか、建築家 – architect (kenchikuka)
+せんせい、先生 – teacher (sensei)
+きょうし、教師 – (academic) teacher (kyoushi)
+かしゅ、歌手 – singer (kashu)
+エンジニア – engineer(enjinia)
+Body
+あし、足、脚 – foot, leg (ashi)
+かかと、踵 – heel (kakato)
+すね、脛 – shin (sune)
+ひざ、膝 – knee (hiza)
+もも、腿 – thigh (momo)
+あたま、頭 – head (atama)
+かお、顔 – face (kao)
+くち、口 – mouth (kuchi)
+くちびる、唇 – lips (kuchibiru)
+は、歯 – tooth (ha)
+はな、鼻 – nose (hana)
+め、目 – eye (me)
+ひげ、髭、鬚、髯 – moustache, beard (hige)
+かみ、髪 – hair (kami)
+みみ、耳 – ear (mimi)
+おなか、御腹 – stomach (onaka)
+うで、腕 – arm (ude)
+ひじ、肘 – elbow (hiji)
+かた、肩 – shoulder (kata)
+つめ、爪 – nail (tsume)
+て、手 – hand (te)
+てくび、手首 – wrist (tekubi)
+てのひら、掌、手の平 – palm of hand (te-no-hira)
+ゆび、指 – finger, toe (yubi)
+しり、尻 – buttocks (shiri)
+おなか、お腹 （はら、腹） – abdomen (o-naka)
+かんぞう、肝臓 – liver (kanzō)
+きも、肝 – liver (kimo)
+きんにく、筋肉 – muscle (kin'niku)
+くび、首 – neck (kubi)
+こころ、心 – heart [as in feelings] (kokoro)
+こし、腰 – waist, hip (koshi)
+しんぞう、心臓 – heart (shinzō)
+せなか、背中 – back (senaka)
+ち、血 – blood (chi)
+にく、肉 – meat (niku)
+はだ、肌、膚 – skin (hada)
+ひふ、皮膚 – skin (hifu)
+ほね、骨 – bone (hone)
+むね、胸 – chest (mune)
+かぜ、風邪 – cold [illness] (kaze)
+げり、下痢 – diarrhea (geri)
+びょうき、病気 – illness (byōki)
+Family
+かぞく、家族 – family (kazoku)
+りょうしん、両親 – parents (ryoushin)
+こども、子供 – children, child (kodomo)
+ちち、父 – father (chichi)("otou-san")
+はは、母 – mother (haha)("okaa-san")
+つま、妻 – wife (tsuma)
+おっと、夫 – husband (otto)
+あに、兄 – older brother (ani) (onī-san)
+あね、姉 – older sister (ane) (onē-san)
+おとうと、弟 – younger brother (otōto)
+いもうと、妹 – younger sister (imōto)
+きょうだい、兄弟 – brothers, siblings (kyōdai)
+しまい、姉妹 – sisters (shimai)
+そふ、祖父 – grandfather (sofu) (ojii-san)
+そぼ、祖母 – grandmother (sobo) (obaa-san)
+まご、孫 – grandchild (mago)
+おじ、伯父、叔父 – uncle (oji) (oji-san)
+おば、伯母、叔母 – aunt (oba) (oba-san)
+いとこ、従兄弟、従姉妹、従兄、従弟、従姉、従妹 – cousin (itoko)
+めい、姪 – niece (mei)
+おい、甥 – nephew (oi)
+Life
+いきもの、生き物 – living creatures (ikimono)
+ばけもの、化け物 – monster (bakemono)
+Animals
+どうぶつ、動物 – animal (dōbutsu)
+チーター – cheetah (chītā)
+いぬ、犬 – dog (inu)
+ねこ、猫 – cat (neko)
+うし、牛 – cow (ushi)
+ぶた、豚 – pig (buta)
+うま、馬 – horse (uma)
+ひつじ、羊 – sheep (hitsuji)
+さる、猿 – monkey (saru)
+ねずみ、鼠 – mouse, rat (nezumi)
+とら、虎 – tiger (tora)
+オオカミ、狼 – wolf (ōkami)
+うさぎ、兎 – rabbit (usagi)
+りゅう、たつ、竜 – dragon (ryū, tatsu)
+しか、鹿 – deer (shika)
+かえる、蛙 – frog (kaeru)
+がま、蟇 – toad (gama)
+しし、獅子 – lion (shishi)
+キリン、麒麟 – giraffe (kirin)
+ぞう、象 – elephant (zō)
+とり、鳥 – bird (tori)
+にわとり、鶏 – chicken (niwatori)
+すずめ、雀 – sparrow (suzume)
+からす、烏 – crow, raven (karasu)
+わし、鷲 – eagle (washi)
+たか、鷹 – hawk, falcon (taka)
+さかな、魚 – fish (sakana)
+たい、鯛 – red snapper (tai)
+えび、海老 – shrimp, lobster (ebi)
+いわし、鰯 – sardine (iwashi)
+まぐろ、鮪 – tuna (maguro)
+かつお、鰹 – bonito (katsuo)
+さんま、秋刀魚 – pike (sanma)
+あじ、鰺 – horse mackerel (aji)
+さば、鯖 – mackerel (saba)
+イカ、烏賊 – squid (ika)
+タコ、蛸、章魚 – octopus (tako)
+むし、虫 – insect (mushi)
+ちょう、蝶 – butterfly (chō)
+ガ、蛾 – moth (ga)
+せみ、蝉 – cicada (semi)
+トンボ、蜻蛉 – dragonfly (tonbo)
+バッタ、飛蝗 – grasshopper (batta)
+クモ、蜘蛛 – spider (kumo)
+ホタル、蛍 – firefly (hotaru)
+ハエ、蝿、蠅 – housefly (hae)
+カ、蚊 – mosquito, gnat (ka)
+ゴキブリ、蜚蠊 – cockroach (gokiburi)
+カタツムリ、蝸牛 – snail (katatsumuri)
+ナメクジ、蛞蝓 – slug (namekuji)
+ミミズ、蚯蚓 – earthworm (mimizu)
+かい、貝 – shellfish (kai)
+かいがら、貝殻 – shell (kaigara)
+トカゲ、蜥蜴 – lizard (tokage)
+へび、蛇 – snake (hebi)
+くま、熊 – bear(kuma)
+Plants
+しょくぶつ、植物 - plants (shokubutsu)
+くさ、草 - grass (kusa)
+はな、花 - flower (hana)
+み、実 - fruit (mi)
+き、木 - tree (ki)
+は、葉 (はっぱ、葉っぱ) - leaf (ha, happa)
+ね、根 (ねっこ、根っ子) - root (ne, nekko)
+くき、茎 - stem (kuki)
+きのこ、茸 - mushroom (kinoko)
+きく、菊 - chrysanthemum (kiku)
+さくら、桜 - cherry blossom (sakura)
+まつ、松 - pine tree (matsu)
+うめ、梅 - japanese plum or apricot (ume)
+Crops
+こめ、米 – uncooked rice (kome)
+いね、稲 – rice growing in a field (ine)
+むぎ、麦 – wheat, barley, oats (mugi)
+やさい、野菜 – vegetable (yasai)
+くだもの、果物 – fruit for eating (kudamono)
+いも、芋 – yam, potato, taro (imo)
+まめ、豆 – beans, peas (mame)
+だいこん、大根 – Japanese white radish (daikon)
+にんじん、人参 – carrot (ninjin)
+リンゴ、林檎 – apple (ringo)
+ミカン、蜜柑 – mandarin orange (mikan)
+バナナ、かんしょう、甘蕉 – banana (banana, kanshō)
+ナシ、梨 – pear (nashi)
+クリ、栗 – chestnut tree (kuri)
+モモ、桃 – peach (momo)
+トマト、ばんか、蕃茄 – tomato (tomato, banka)
+スイカ、西瓜 – watermelon (suika)
+Food
+たべもの、食べ物 - food (tabemono)
+ちょうしょく、朝食 - breakfast (chōshoku, asagohan)
+ひるごはん、昼御飯 - lunch (hirugohan)
+ばんごはん、晩御飯 - dinner (bangohan)
+ごはん、御飯 - cooked rice or meal (gohan)
+みそ、味噌 - miso (miso)
+りょうり、料理 - cooking (ryōri)
+サラダ - salad (sarada)
+デザート - dessert (dezāto)
+パン - bread (pan)
+サンドイッチ - sandwich (sandoitchi)
+おやつ、間食 - snack (oyatsu, kanshoku)
+アイスクリーム - ice cream (aisukurīmu)
+たこやき、たこ焼き - octopus dumpling (takoyaki)
+Drink
+のみもの、飲み物 - drink/beverage (nomimono)
+ちゃ、茶 - tea (cha)
+おちゃ、お茶 - green tea (ocha)
+コーヒー、珈琲 - coffee (kōhī)
+ぎゅうにゅう、牛乳 - milk (gyūnyū)
+みず、水 - water (mizu)
+ビール - beer (bīru)
+ワイン - wine (wain)
+Seasoning
+さとう、砂糖 - sugar (satō)
+しお、塩 - salt (shio)
+しょうゆ、醤油 - soy sauce (shōyu)
+Time
+じかん、時間 – time (jikan)
+とき、じ、時 – ~hours (toki, ji)
+こよみ、カレンダー、暦 – calendar (koyomi, karendā)
+ふん、分 – minute (fun)
+びょう、秒 – second (byō)
+ひ、にち、日 – day (hi, nichi)
+つき、がつ、月 – month (tsuki, gatsu)
+(# -gatsu / (January,1st Month): Ichi-,Ni-,San-,Shi-,Go-,Roku-,Shichi-,Hachi-,Ku-,Jyu-,JyuIchi-,JyuNi- (December,12th Month)
+とし、ねん、年 – year (toshi, nen)
+(Last year: kyonen, this year: kotoshi, next year: rainen),
+きのう、さくじつ、昨日 – yesterday (kinō, sakujitsu)
+きょう、今日 – today (kyō)
+あした、あす、みょうにち、明日 – tomorrow (ashita, asu, myōnichi)
+あさ、朝 – morning (asa)
+(Yesterday morning: kinou no asa, this morning: kesa, tomorrow morning: ashita no asa)
+ひる、昼 – afternoon (hiru)
+ゆうがた、夕方 – evening (yūgata)
+ばん、晩 – evening (ban)
+よる、夜 – evening, night (yoru)
+ようび、曜日 – ~day (yōbi)
+しゅう、週 – week (shū)
+(Last week: senshū, this week: konshū, next week: raishū)
+いっしゅうかん、一週間 – one week (isshūkan)
+Week Days
+にちようび、日曜日 – Sunday (nichi-yōbi)
+げつようび、月曜日 – Monday (getsu-yōbi)
+かようび、火曜日 – Tuesday (ka-yōbi)
+すいようび、水曜日 – Wednesday (sui-yōbi)
+もくようび、木曜日 – Thursday (moku-yōbi)
+きんようび、金曜日 – Friday (kin-yōbi)
+どようび、土曜日 – Saturday (do-yōbi)
+Weather
+たいよう、太陽 – sun (taiyō)
+つき、月 – moon (tsuki)
+ほし、星 – star (hoshi)
+てんき、天気 – weather (tenki)
+はれ、晴れ – clear weather (hare)
+あめ、雨 – rain (ame)
+くもり、曇り – cloudy (kumori)
+ゆき、雪 – snow (yuki)
+かぜ、風 – wind (kaze)
+かみなり、雷 – thunder, lightning (kaminari)
+たいふう、台風 – typhoon (taifū)
+あらし、嵐 – storm (arashi)
+そら、空 – sky (sora)
+Directions and positions
+きた、北 – north (kita)
+ひがし、東 – east (higashi)
+みなみ、南 – south (minami)
+にし、西 – west (nishi)
+ここ – here (koko)
+そこ – there (soko)
+あそこ – over there (asoko)
+みぎ、右 – right (migi)
+ひだり、左 – left (hidari)
+うえ、上 – above, up (ue)
+した、下 – below, down (shita)
+まえ、前 – front (mae)
+うしろ、後 – behind (ushiro)
+むこう、向こう – the other side, opposite side (mukō)
+ななめ、斜め – diagonal (naname)
+てまえ、手前 – nearer, more in front (temae)
+とおい、遠い – far (tooi)
+ちかい、近い – near, close (chikai)
+Materials
+みず、水 – water (mizu)
+ゆ、湯 – hot water (yu)
+こおり、氷 – ice (kōri)
+ゆげ、湯気 – steam (yuge)
+ひ、火 – fire (hi)
+ガス – gas (gasu)
+くうき、空気 – air, atmosphere (kūki)
+つち、土 – earth, ground (tsuchi)
+きんぞく、金属 – metal, metallic (kinzoku)
+どろ、泥 – mud, mire, clay, plaster (doro)
+けむり、煙 – smoke, tobacco, opium (kemuri)
+てつ、鉄 – iron [Fe] (tetsu)
+どう、銅 – copper [Cu] (dō)
+きん、金 – gold [Au]; money (kin)
+ぎん、銀 – silver [Ag]; wealth (gin)
+なまり、鉛 – lead [Pb] (namari)
+しお、塩 – salt [NaCl] (shio)
+Weights and measures
+メートル – meter (mētoru)
+リットル – litre (rittoru)
+グラム – gram (guramu)
+キロ – kilo- (kiro)
+ミリ – milli- (miri)
+センチメートル、センチ – centimeter (senchi)
+インチ – inch (inchi)
+Society
+しゃかい、社会 – society (shakai)
+けいざい、経済 – economy, economics (keizai)
+かいしゃ、会社 – company (kaisha)
+かいぎ、会議 – meeting (kaigi)
+がっこう、学校 – school (gakkō)
+やくしょ、役所 – local government office (yakusho)
+みせ、店 – store (mise)
+ホテル – hotel (hoteru)
+こうじょう、工場 – factory (kōjō)
+かね、金 – money (kane, most commonly o-kane)
+さつ、札 – bill [of money, e.g., a thousand-yen bill] (satsu)
+こぜに、小銭 – small change (kozeni)
+つりせん、釣り銭、おつり、お釣り – change (tsurisen), change (o-tsuri)
+じどうはんばいき、自動販売機 – vending machine, slot machine (jidōhanbaiki)
+きっぷ、切符 – ticket (public transport, fine) (kippu)
+きって、切手 – stamp (kitte)
+Human made objects
+Home
+つくえ、机 – desk (tsukue)
+いす、椅子 – chair, position (isu)
+たたみ、畳 – a tatami mat (tatami)
+と、戸 – door, family (to)
+とびら、扉 – door panel (tobira)
+ドア – door (doa)
+まど、窓 – window (mado)
+ふとん、布団 – futon (futon)
+げんかん、玄関 – entrance (genkan)
+いえ、家 – house, home (ie)
+エレベーター – elevator (erebētā)
+エスカレーター – escalator (esukarētā)
+でんき、電気 – electricity (denki)
+Tools
+くぎ、釘 – nail, spike (kugi)
+ひも、紐 – string, cord (himo)
+なわ、縄 – rope, string (nawa)
+ふくろ、袋 – pocket, bag (fukuro)
+かばん、鞄 – leather bag (kaban)
+かさ、傘 – umbrella, parasol (kasa)
+かぎ、鍵 – door bolt, key (kagi)
+ちょうこく、彫刻 – sculpture, engraving (chōkoku)
+Stationery
+ぶんぼうぐ、文房具 – stationery​(bunbōgu)
+インク – ink (inku)
+ペン – pen (pen)
+ボールペン – ball-point pen (bōrupen)
+まんねんひつ、万年筆 – fountain pen (mannenhitsu)
+えんぴつ、鉛筆 – pencil (enpitsu)
+ふで、筆 – brush for writing or painting (fude)
+チョーク – chalk (chōku)
+けしゴム、消しゴム – eraser (keshigomu)
+えんぴつけずり、鉛筆削り – pencil sharpener (enpitsu-kezuri)
+じょうぎ、定規 – ruler (jōgi)
+ノート – notebook (nōto)
+にっき、日記 – diary (nikki)
+カバー – book cover (kabā)
+ふうとう、封筒 – envelope (fūtō)
+はさみ、鋏 – scissors (hasami)
+ホッチキス – stapler (hotchikisu)
+Clothes
+ふく、服 – clothes (fuku)
+ようふく、洋服 – western clothing (yōfuku)
+きもの、着物 – kimono (kimono)
+わふく、和服 – Japanese clothing (wafuku)
+そで、袖 – sleeve (sode)
+えり、襟 – lapel, collar (eri)
+ボタン – button (botan)
+チャック、ファスナー、ジッパー – zipper, zipper fastener (chakku, fasunā, jippā)
+ベルト – belt (beruto)
+くつ、靴 – shoe (kutsu)
+くつした、靴下 – sock (kutsushita)
+めがね、眼鏡 – glasses (megane)
+Transport
+てつどう、鉄道 – railway (tetsudō)
+えき、駅 – station (eki)
+ひこうき、飛行機 – airplane (hikōki)
+くうこう、空港 （ひこうじょう、飛行場） – airport (kūkō, hikōjō)
+みち、道 – street, way, road (michi)
+どうろ、道路 – road (dōro)
+バスてい、バス停 – bus-stop (basutei)
+とおり、通り – avenue (tōri)
+でんしゃ、電車 – train (densha)
+くるま、車 (じどうしゃ、自動車) – car (kuruma, jidōsha)
+Language
+もじ、文字 – letter, character, script (moji)
+じ、字 – a letter, character (ji)
+かんじ、漢字 – Chinese character (kanji)
+ひらがな、平仮名 – hiragana syllabary characters (hiragana)
+カタカナ、片仮名 – katakana syllabary characters (katakana)
+すうじ、数字 – numbers (sūji)
+アルファベット – alphabet (arufabetto)
+ローマ字 – Roman characters, Latin script (rōmaji)
+がいこくご、外国語 – foreign language (gaikokugo)
+にほんご、日本語 （こくご、国語） – Japanese [language] (nihongo)
+えいご、英語 – English [language] (eigo)
+ちゅうごくご、中国語 – Chinese [language] (chūgokugo)
+どいつご、ドイツ語 – German [language] (doitsugo)
+すぺいんご、スペイン語 – Spanish [language] (supeingo)
+ふらんすご、フランス語 – French [language] (furansugo)
+ちょうせんご、朝鮮語、かんこくご、韓国語 – Korean [language], South Korean [language] (chōsengo, kankokugo)
+Media
+ほん、本 – book (hon)
+かみ、紙 – paper (kami)
+てがみ、手紙 – letter (tegami)
+しんぶん、新聞 – newspaper (shinbun)
+じしょ、辞書 – dictionary (jisho)
+パソコン – personal computer (pasokon)
+Colors
+いろ、色 – color (iro, shikisai)
+あか、赤 – red (aka)
+きいろ、黄色 – yellow (kiiro)
+みどり、緑 – green (midori)
+あお、青 – blue (ao)
+むらさき、紫 – purple (murasaki, murasakiiro)
+しろ、白 – white (shiro)
+くろ、黒 – black (kuro)
+ピンク – pink (pinku)
+ちゃいろ、茶色 – brown (chairo)
+はいいろ、灰色、ねずみいろ、鼠色 – grey (haiiro, nezumiiro)
+オレンジ – orange (orenji)
+Others
+え、絵 – picture (e)
+おんがく、音楽 – music (ongaku)
+りか、理科 – science (rika)
+さんすう、算数 – arithmetic (sansū)
+れきし、歴史 – history (rekishi)
+ちり、地理 – geography (chiri)
+たいいく、体育 – physical education (taiiku)
+スポーツ – sport (supōtsu)
+システム – system (shisutemu)
+じょうほう、情報 – information, news (jōhō)
+ひつよう、必要 – necessity (hitsuyō)
+べんきょう、勉強 – study (benkyō)
+いらい、依頼 – request (irai)
+Numbers
+れい、ゼロ、零 – zero (rei, zero)
+いち、一 – one (ichi)
+に、二 – two (ni)
+さん、三 – three (san)
+よん、し、四 – four (yon, shi)
+ご、五 – five (go)
+ろく、六 – six (roku)
+なな、しち、七 – seven (nana, shichi)
+はち、八 – eight (hachi)
+きゅう、く、九 – nine (kyū, ku)
+じゅう、十 – ten (jū)
+ひゃく、百 – hundred (hyaku)
+せん、千 – thousand (sen)
+まん、万 – ten thousand (man)
+おく、億 – one hundred million (oku)
+ひとつ、一つ – one, one thing (hitotsu)
+ふたつ、二つ – two, two things (futatsu)
+みっつ、三つ – three, three things (mittsu)
+よっつ、四つ – four, four things (yottsu)
+いつつ、五つ – five, five things (itsutsu)
+むっつ、六つ – six, six things (muttsu)
+ななつ、七つ – seven, seven things (nanatsu)
+やっつ、八つ – eight, eight things (yattsu)
+ここのつ、九つ – nine, nine things (kokonotsu)
+とお、十 – ten, ten things (tō)
+Abstract nouns
+これ – this, it (kore)
+それ – that (sore)
+あれ – that over there (are)
+どれ – which (dore)
+こちら、こっち – this direction, thing, person, or place (kochira, kocchi)
+そちら、そっち – that direction, thing, person, or place (sochira, socchi)
+あちら、あっち – that direction, thing, person, or place over there (achira, acchi)
+どちら、どっち – which direction, thing, person, or place (dochira, docchi)
+ひみつ、秘密 – secret (himitsu)
+じどう、自動 – automatic (jidō)
+ないよう、内容 – content (naiyō)
+はば、幅 – width, breadth, free room, difference (between two substances) (haba)
+せいしき、正式 – formality (seishiki)
+けっこん、結婚 – marriage (kekkon)
+げんざい、現在 – now (genzai)
+いま、今 – now (ima)
+かこ、過去 – past (kako)
+みらい、未来 – future (mirai)
+Adjectives
+Forms
+いい、よい、良い – good (ii, yoi)
+すごい、凄い – amazing (sugoi)
+すばらしい、素晴らしい – wonderful (subarashii)
+わるい、悪い – bad, inferior (warui)
+たかい、高い – expensive, high (takai)
+ひくい、低い – low (hikui)
+やすい、安い – cheap (yasui)
+おおきい、大きい – big (ōkii)
+ちいさい、小さい – small (chiisai)
+ほそい、細い – thin (hosoi)
+ふとい、太い – thick (futoi)
+ふるい、古い – old (furui)
+あたらしい、新しい – new (atarashii)
+わかい、若い – young (wakai)
+かるい、軽い – light, easy (karui)
+おもい、重い – heavy (omoi)
+やさしい、易しい – easy, simple (yasashii)
+むずかしい、難しい – difficult (muzukashii)
+やわらかい、柔らかい – soft (yawarakai)
+かたい、硬い、堅い – hard (katai)
+あつい、熱い、暑い – hot (atsui)
+つめたい、冷たい – cold (tsumetai)
+さむい、寒い – cold (samui) as in cold weather
+おいしい、美味しい – delicious (oishii)
+うまい、美味い、旨い – delicious, appetizing (umai)
+まずい、不味い – tastes awful (mazui)
+あまい、甘い – sweet (amai)
+からい、辛い – hot [spicy] (karai)
+しょっぱい、塩っぱい – salty (shoppai)
+にがい、苦い – bitter (nigai)
+うつくしい、美しい – beautiful (utsukushii)
+Feelings
+うれしい、嬉しい – happy (ureshii)
+たのしい、楽しい – fun (tanoshii)
+かなしい、悲しい – sad (kanashii)
+さびしい、寂しい、淋しい – lonely (sabishii)
+さみしい、寂しい、淋しい - sad, lonely (samishii)
+こわい、怖い、恐い – scary (kowai)
+いたい、痛い – painful (itai)
+かゆい、痒い – itchy (kayui)
+くさい、臭い – stinky (kusai)
+つらい、辛い – painful, heart-breaking (tsurai)
+Verbs
+する – to do (suru)
+やる – to do (yaru)
+Existence
+いる – to exist [for animate objects] (iru)
+ある – to exist [for inanimate objects] (aru)
+なる – to become (naru)
+おこる、起こる、興る – to occur (okoru)
+あらわれる、現れる – to appear (arawareru)
+いきる、生きる – to live (ikiru)
+うむ、生む、産む – to give birth (umu)
+しぬ、死ぬ – to die (shinu)
+こわれる、壊れる – to breakin (kowareru)
+in intransitive sense
+Movement
+いく、行く – to go (iku)
+くる、来る – to come (kuru)
+かえる、帰る、返る – to return (kaeru)
+あるく、歩く – to walk (aruku)
+とぶ、飛ぶ – to jump, to fly (tobu)
+およぐ、泳ぐ – to swim (oyogu)
+Actions
+うごく、動く – to movein (ugoku)
+おどる、踊る – to dance (odoru)
+ねる、寝る – to sleep (neru)
+うたう、歌う – to sing (utau)
+かむ、噛む – to bite (kamu)
+たべる、食べる – to eat (taberu)
+のむ、飲む – to drink (nomu)
+さわる、触る – to touch (sawaru)
+なげる、投げる – to throw (nageru)
+もつ、持つ – to hold (motsu)
+うつ、打つ – to hit, to strike (utsu)
+なぐる、殴る – to hit, to strike (naguru)
+さす、指す – to point (sasu)
+さす、刺す – to stab (sasu)
+さす、差す – to raise or extend one's hands (sasu)
+ける、蹴る – to kick (keru)
+すわる、座る – to sit (suwaru)
+たつ、立つ – to stand (tatsu)
+はしる、走る – to run (hashiru)
+Changes of state
+あく、空く – to become unoccupied (aku)
+こむ、込む – to be crowded (komu)
+いる、要る – to need (iru)
+かわく、乾く – to become dry (kawaku)
+みだす、乱す - to disturb, to disarrange (midasu)
+みだれる、乱れる - to be disturbed, to become confused (midareru)
+つかえる、仕える - to serve, to work for (tsukaeru)
+そなわる、備わる - to be furnished with (sonawaru)
+すぐれる、優れる - to excel, to surpass (sugureru)
+ひえる、冷える - to grow cold, to get chilly, to cool down (hieru)
+さめる、覚める - to wake, to become sober, to be disillusioned (sameru)
+さめる、冷める - to cool down (sameru)
+むく、向く - to face, to turn toward (muku)
+たおれる、倒れる - to fall, to collapse (taoreru)
+かたまる、固まる - to harden, to solidify, to become firm (katamaru)
+うまる、埋まる - to be filled, to be surrounded, to overflow (umaru)
+うもれる、埋もれる - to be buried, to be covered (umoreru)
+ます、増す - to increase, to grow (masu)
+ふえる、増える - to increase, to multiply (fueru)
+へる、減る - to decrease (heru)
+はずれる、外れる - to deviate (hazureru)
+ふとる、太る - to grow fat (futoru)
+はじまる、始まる - to begin (hajimaru)
+おわる、終わる - to finish, to close (owaru)
+きめる、決める - to decide (kimeru)
+Senses
+みる、見る – to see (miru)
+きく、聞く、聴く – to hear, to listen (kiku)
+さわる、触る – to touch, to feel (sawaru)
+かぐ、嗅ぐ – to smell (kagu)
+Speech
+いう、言う – to say (iu)
+はなす、話す – to speak (hanasu)
+かたる、語る – to tell (kataru)
+かく、書く – to write (kaku)
+よむ、読む – to read (yomu)
+Work
+つかう、使う – to use (tsukau)
+つくる、作る、造る、創る – to make (tsukuru)
+なおす、直す、治す – to fix, repair (naosu)
+すてる、捨てる – to discard, throw away (suteru)
+とる、取る、撮る、採る – to take (toru)
+おく、置く – to put (oku)
+Emotions
+かなしむ、悲しむ、哀しむ – to be sad (kanashimu)
+なく、泣く – to cry (naku)
+わらう、笑う – to laugh (warau)
+おこる、怒る – to be angry (okoru)
+ほめる、褒める – to encourage (homeru)
+しかる、叱る – to scold (shikaru)
+よろこぶ、喜ぶ – to celebrate, to be jubilant, to have joy, to have delight, to have rapture (yorokobu)
+よろこび、喜び – joy, delight, rapture (yorokobi)
+なぐさめる、慰める – to console, to consolate, to provide empathy (nagusameru)
+あきる、飽きる – to be disinterested, to be bored, to be tired of, to be weary (akiru)
+おどろく、驚く – to be astonished, to be surprised, to be scared (odoroku)
+Activities
+あう、会う – to meet, to interview (au)
+あける、開ける – to opentr, to unwraptr (akeru)
+あそぶ、遊ぶ – to play (asobu)
+あつまる、集まる – to gatherin (atsumaru)
+うる、売る – to sell (uru)
+える、得る – to obtain [some benefit or knowledge] (eru)
+おる、折る – to breaktr, to foldtr (oru)
+かう、買う – to buy (kau)
+きる、切る – to cut (kiru)†
+きる、着る – to wear [on the upper body] (kiru)
+はく、履く – to wear [on the lower body] (haku)
+かえる、変える – to changetr (kaeru)
+かえる、代える – to exchange, to substitute, to replace (kaeru)
+しめる、閉める – to closetr (shimeru)
+しめる、締める – to tie, to fasten (shimeru)
+しめる、占める – to comprise, to account for (shimeru)
+しる、知る – to know (shiru)†
+つかれる、疲れる – to get tired (tsukareru)
+でかける、出掛ける – to go out, to depart (dekakeru)
+はたらく、働く – to work [e.g., at a job] (hataraku)
+はなす、放す、離す – to let go of (hanasu)
+やすむ、休む – to rest, to take a break, to go to bed (yasumu)
+わかれる、分かれる – to split intoin, to be divided (wakareru)
+わかれる、別れる – to partin, to separatein, to break upin (wakareru)
+tr transitive sense
+in intransitive sense
+† conjugates as a u-verb
+Adverbs
+もう – already (mō)
+まだ – still, yet (mada)
+ずっと – always (zutto)
+とても – very (totemo)
+こう – like this (kō)
+そう – like that (sō)
+ああ – in that other way (ā)
+どう – how (dō)
+しばしば – often (shibashiba)
+Pre-noun adjectival
+この – this (kono)
+その – that (sono)
+あの – that (ano)
+どの – which (dono)
+Interjections
+はい – yes (hai)
+いいえ – no (iie)
+Conjunctions
+でも - but (demo)
+しかし – but, however (shikashi)
+そして – and then, Then… (soshite)
+それに – besides (soreni)
+なぜなら – that is because, being because (nazenara)
+Terminations of verbs
+う、よう – volitional ending [う for u-verbs, よう for ru-verbs]: "Let's…" or "I will" (u, yō)
+せる、させる – causative ending [せる for u-verbs, させる for ru-verbs]: to make [someone do something], to allow (seru, saseru)
+れる、られる – passive verb ending [れる for u-verbs, られる for ru-verbs]: to be <verbed> [e.g., 食べられる, "to be eaten"] (reru, rareru)
+そうだ – indicates that it seems the verb occurs [e.g., "It seems he ate"] (sōda)
+た – informal past-tense (ta)
+たい – indicates desire to perform verb (tai)
+だろう – indicates that it seems the verb occurs; also used to ask whether the verb occurs (darō)
+ない、ん – informal negative (nai, n) [ん is a slurred version and sounds a little masculine]
+ぬ – archaic informal negative ["he hath", "thou didst", etc.] (nu)
+ます – formal non-past ending (masu)
+Particles
+Case
+が – subject marker, but (ga)
+で – at, by (de)
+と – and, with (to)
+に – indirect object marker (ni)
+の – possession marker, of (no)
+へ – to (e) [Note: へ is normally read he, but when used as this particle its reading changes to e]
+まで – to (made)
+から – from (kara)
+より – than (yori)
+を – direct object marker (o)
+Conjunctive
+および、及び – and; as well as (oyobi)
+か – whether (ka)
+かも – might be, possible that (kamo)
+そして – and then (soshite)
+それとも – or (soretomo)
+だの – things like <list of things>, including, such things as (dano)
+つつ – ongoing occurrence (tsutsu) [similar to ながら but has different tone, and both actions have equal weight]
+て – te form of verb or adjective [see explanation]
+と – when, if, that (to)
+ながら – while, though, both (nagara)
+ならびに – as well as (narabini)
+なり – whether or not (nari)
+に – to <somewhere>, by <someone> (ni)
+の – possession (no)
+ので – so (node)
+また、又 – also, again (mata)
+または、又は – or alternatively (matawa)
+も – also, too (mo)
+や – and (ya)
+Final
+ね – emphasis and question marker, equivalent to "right?" (ne)
+か – question marker (ka)
+な – the copula particle used after quasi-adjectives (na)
+かしら – I wonder (kashira)
+さ – -ness (sa)
+っけ – particle indicating that the speaker is trying to recall some information ["What class is next -kke?"] (-kke)
+Adverbial
+こそ – emphasis (koso)
+さえ – even (sae)
+しか – only (shika)
+すら – even (sura)
+くらい、ぐらい – approximately, about (kurai)
+だけ – only, as much as (dake)
+だって – however (datte)
+ったら – casual topic marker (ttara) [colloquial form of to ittara (if you refer to ~; as for ~)
+って – said that (tte)
+でも – also, or (demo)
+どころ – (particle used to indicate that what precedes it is an extreme example and strongly negates it) (dokoro)
+など – for example (nado)
+なら – if [for verbs]; subject marker [for nouns] (nara)
+なんか – casual undervalue, dislike, lack (nanka)
+なんて – casual undervalue, dislike, lack (nante)
+は – topic marker (wa) [although ha is the hiragana used, wa is the pronunciation)
+ばかり、ばっかり – just, full of, only (bakari)
+まで – until (made)
+も – too, also (mo)
+カ ka	キ ki	ク ku	ケ ke	コ ko	キャ kya	キュ kyu	キョ kyo	ッカ kka	ッキ kki	ック kku	ッケ kke	ッコ kko
+サ sa	シ shi	ス su	セ se	ソ so	シャ sha	シュ shu	ショ sho	ッサ ssa	ッシ sshi	ッス ssu	ッセ sse	ッソ sso
+タ ta	チ chi	ツ tsu	テ te	ト to	チャ cha	チュ chu	チョ cho	ッタ tta	ッチ tchi (cchi)	ッツ ttsu	ッテ tte	ット tto
+ナ na	ニ ni	ヌ nu	ネ ne	ノ no	ニャ nya	ニュ nyu	ニョ nyo					
+ハ ha	ヒ hi	フ fu	ヘ he	ホ ho	ヒャ hya	ヒュ hyu	ヒョ hyo					
+マ ma	ミ mi	ム mu	メ me	モ mo	ミャ mya	ミュ myu	ミョ myo					
+ヤ ya	Katakana obsolete yi.svg yi¹	ユ yu	Katakana obsolete ye.svg ye¹	ヨ yo								
+ラ ra	リ ri	ル ru	レ re	ロ ro	リャ rya	リュ ryu	リョ ryo					
+ワ wa	ヰ wi	Katakana obsolete wu.svg wu¹	ヱ we	ヲ wo ²	ヰャ wya	ヰュ wyu	ヰョ wyo					
+ン n								
+ガ ga	ギ gi	グ gu	ゲ ge	ゴ go	ギャ gya	ギュ gyu	ギョ gyo					
+ザ za	ジ ji	ズ zu	ゼ ze	ゾ zo	ジャ ja	ジュ ju	ジョ jo					
+ダ da	ヂ di	ヅ dzu	デ de	ド do	ヂャ ja	ヂュ ju	ヂョ jo					
+バ ba	ビ bi	ブ bu	ベ be	ボ bo	ビャ bya	ビュ byu	ビョ byo					
+パ pa	ピ pi	プ pu	ペ pe	ポ po	ピャ pya	ピュ pyu	ピョ pyo	ッパ ppa	ッピ ppi	ップ ppu	ッぺ ppe	ッポ ppo
+(ユィ)イィ yi		(ユェ)イェ ye									
+(ヷ)ヴァ va	(ヸ)ヴィ vi	ヴ vu	(ヹ)ヴェ ve	(ヺ)ヴォ vo	ヴャ vya	ヴュ vyu	ヴョ vyo					
+シェ she									
+ジェ je									
+チェ che									
+(スヮ) スァ swa	スィ si	スゥ swu	スェ swe	スォ swo	スャ sya	スュ syu	スョ syo					
+(ズヮ) ズァ zwa	ズィ zi	ズゥ zwu	ズェ zwe	ズォ zwo	ズャ zya	ズュ zyu	ズョ zyo					
+ツァ tsa	ツィ tsi		ツェ tse	ツォ tso								
+テァ tha	ティ ti	テゥ thu	テェ tye	テォ tho	テャ tya	テュ tyu	テョ tyo					
+デァ dha	ディ di	デゥ dhu	デェ dye	デォ dho	デャ dya	デュ dyu	デョ dyo					
+(トヮ) トァ twa	トィ twi	トゥ tu	トェ twe	トォ two								
+(ドヮ) ドァ dwa	ドィ dwi	ドゥ du	ドェ dwe	ドォ dwo								
+ファ fa	フィ fi	ホゥ hu	フェ fe	フォ fo	フャ fya	フュ fyu	フョ fyo					
+リィ ryi	リェ rye									
+ウァ wa	ウィ wi	ウゥ wu	ウェ we	ウォ wo	ウャ wya	ウュ wyu	ウョ wyo					
+(クヮ)クァ kwa	クィ kwi	クゥ kwu	クェ kwe	クォ kwo								
+(グヮ)グァ gwa	グィ gwi	グゥ gwu	グェ gwe	グォ gwo								
+(ムヮ) ムァ mwa	ムィ mwi	ムゥ mwu	ムェ mwe	ムォ mwo								
+ヵ pequeno ka			ヶ pequeno ke3			
+
+か ka	き ki	く ku	け ke	こ ko	きゃ kya	きゅ kyu	きょ kyo	っか kka	っき kki	っく kku	っけ kke	っこ kko
+さ sa	し shi	す su	せ se	そ so	しゃ sha	しゅ shu	しょ sho	っさ ssa	っし sshi	っす ssu	っせ sse	っそ sso
+た ta	ち chi	つ tsu	て te	と to	ちゃ cha	ちゅ chu	ちょ cho	った tta	っち tchi (cchi)	っつ ttsu	って tte	っと tto
+な na	に ni	ぬ nu	ね ne	の no	にゃ nya	にゅ nyu	にょ nyo					
+は ha	ひ hi	ふ fu	へ he	ほ ho	ひゃ hya	ひゅ hyu	ひょ hyo					
+ま ma	み mi	む mu	め me	も mo	みゃ mya	みゅ myu	みょ myo					
+や ya	𛀆 yi	ゆ yu	𛀁 ye	よ yo								
+ら ra	り ri	る ru	れ re	ろ ro	りゃ rya	りゅ ryu	りょ ryo					
+わ wa	ゐ wi	ゔ wu	ゑ we	を wo	ゐゃ wya	ゐゅ wyu	ゐょ wyo					
+ん n								
+が ga	ぎ gi	ぐ gu	げ ge	ご go	ぎゃ gya	ぎゅ gyu	ぎょ gyo					
+ざ za	じ ji	ず zu	ぜ ze	ぞ zo	じゃ ja	じゅ ju	じょ jo					
+だ da	ぢ dji	づ dzu	で de	ど do	ぢゃ dya	ぢゅ dyu	ぢょ dyo					
+ば ba	び bi	ぶ bu	べ be	ぼ bo	びゃ bya	びゅ byu	びょ byo	っば bba	っび bbi	っぶ bbu	っべ bbe	っぼ bbo
+ぱ pa	ぴ pi	ぷ pu	ぺ pe	ぽ po	ぴゃ pya	ぴゅ pyu	ぴょ pyo	っぱ ppa	っぴ ppi	っぷ ppu	っぺ ppe	っぽ ppo
+qwertyuiopasdfghjklçzxcvbnm,.
+
+	È	&Egrave;		ô	&ocirc;		Ç	&Ccedil;
+á	&aacute;		è	&egrave;		Ò	&Ograve;		ç	&ccedil;
+Â	&Acirc;		Ë	&Euml;		ò	&ograve;
+â	&acirc;		ë	&euml;		Ø	&Oslash;		Ñ	&Ntilde;
+À	&Agrave;		Ð	&ETH;		ø	&oslash;		ñ	&ntilde;
+à	&agrave;		ð	&eth;		Õ	&Otilde;
+Å	&Aring;					õ	&otilde;		Ý	&Yacute;
+å	&aring;		Í	&Iacute;		Ö	&Ouml;		ý	&yacute;
+Ã	&Atilde;		í	&iacute;		ö	&ouml;
+ã	&atilde;		Î	&Icirc;					"	&quot;
+Ä	&Auml;		î	&icirc;		Ú	&Uacute;		<	&lt;
+ä	&auml;		Ì	&Igrave;		ú	&uacute;		>	&gt;
+Æ	&AElig;		ì	&igrave;		Û	&Ucirc;		&	&amp;
+æ	&aelig;		Ï	&Iuml;		û	&ucirc;
+ï	&iuml;		Ù	&Ugrave;		®	&reg;
+É	&Eacute;					ù	&ugrave;		©	&copy;
+é	&eacute;		Ó	&Oacute;		Ü	&Uuml;		Þ	&THORN;
+Ê	&Ecirc;		ó	&oacute;		ü	&uuml;		þ	&thorn;
+ê	&ecirc;		Ô	&Ocirc;					ß	&szlig;
+� poss�vel conseguir acentua��o, os caracteres especiais j� vistos e ainda outros usando o c�digo ASCII precedido de &#. A tabela a seguir mostra os c�digos e sua interpreta��o.
+
+Tabela ASCII em HTML
+&#33;	!		&#65;	A		&#97;	a		&#163;	£		&#195;	Ã		&#227;	ã
+&#34;	"		&#66;	B		&#98;	b		&#164;	¤		&#196;	Ä		&#228;	ä
+&#35;	#		&#67;	C		&#99;	c		&#165;	¥		&#197;	Å		&#229;	å
+&#36;	$		&#68;	D		&#100;	d		&#166;	¦		&#198;	Æ		&#230;	æ
+&#37;	%		&#69;	E		&#101;	e		&#167;	§		&#199;	Ç		&#231;	ç
+&#38;	&		&#70;	F		&#102;	f		&#168;	¨		&#200;	È		&#232;	è
+&#39;	'		&#71;	G		&#103;	g		&#169;	©		&#201;	É		&#233;	é
+&#40;	(		&#72;	H		&#104;	h		&#170;	ª		&#202;	Ê		&#234;	ê
+&#41;	)		&#73;	I		&#105;	i		&#171;	«		&#203;	Ë		&#235;	ë
+&#42;	*		&#74;	J		&#106;	j		&#172;	¬		&#204;	Ì		&#236;	ì
+&#43;	+		&#75;	K		&#107;	k		&#173;	­		&#205;	Í		&#237;	í
+&#44;	,		&#76;	L		&#108;	l		&#174;	®		&#206;	Î		&#238;	î
+&#45;	-		&#77;	M		&#109;	m		&#175;	¯		&#207;	Ï		&#239;	ï
+&#46;	.		&#78;	N		&#110;	n		&#176;	°		&#208;	Ð		&#240;	ð
+&#47;	/		&#79;	O		&#111;	o		&#177;	±		&#209;	Ñ		&#241;	ñ
+&#48;	0		&#80;	P		&#112;	p		&#178;	²		&#210;	Ò		&#242;	ò
+&#49;	1		&#81;	Q		&#113;	q		&#179;	³		&#211;	Ó		&#243;	ó
+&#50;	2		&#82;	R		&#114;	r		&#180;	´		&#212;	Ô		&#244;	ô
+&#51;	3		&#83;	S		&#115;	s		&#181;	µ		&#213;	Õ		&#245;	õ
+&#52;	4		&#84;	T		&#116;	t		&#182;	¶		&#214;	Ö		&#246;	ö
+&#53;	5		&#85;	U		&#117;	u		&#183;	·		&#215;	×		&#247;	÷
+&#54;	6		&#86;	V		&#118;	v		&#184;	¸		&#216;	Ø		&#248;	ø
+&#55;	7		&#87;	W		&#119;	w		&#185;	¹		&#217;	Ù		&#249;	ù
+&#56;	8		&#88;	X		&#120;	x		&#186;	º		&#218;	Ú		&#250;	ú
+&#57;	9		&#89;	Y		&#121;	y		&#187;	»		&#219;	Û		&#251;	û
+&#58;	:		&#90;	Z		&#122;	z		&#188;	¼		&#220;	Ü		&#252;	ü
+&#59;	;		&#91;	[		&#123;	{		&#189;	½		&#221;	Ý		&#253;	ý
+&#60;	<		&#92;	\		&#124;	|		&#190;	¾		&#222;	Þ		&#254;	þ
+&#61;	=		&#93;	]		&#125;	}		&#191;	¿		&#223;	ß		&#255;	ÿ
+&#62;	>		&#94;	^		&#126;	~		&#192;	À		&#224;	à		&#256;	Ā
+&#63;	?		&#95;	_		&#161;	¡		&#193;	Á		&#225;	á
+&#64;	@		&#96;	`		&#162;	¢		&#194;	Â		&#226;	â

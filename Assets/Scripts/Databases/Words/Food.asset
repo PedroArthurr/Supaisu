@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519a3327266460146a780d15d71c7369, type: 3}
+  m_Name: Food
+  m_EditorClassIdentifier: 
+  alphabet: 
+  kanaWord:
+  - "\u3053\u3081\u3001\u7C73"
+  - "\u3084\u3055\u3044\u3001\u91CE\u83DC"
+  - "\u307E\u3081\u3001\u8C46 "
+  - "\u3060\u3044\u3053\u3093\u3001\u5927\u6839 "
+  - "\u306B\u3093\u3058\u3093\u3001\u4EBA\u53C2 "
+  - "\u30EA\u30F3\u30B4\u3001\u6797\u6A8E "
+  - "\u30DF\u30AB\u30F3\u3001\u871C\u67D1"
+  - "\u30DF\u30AB\u30F3\u3001\u871C\u67D1"
+  - "\u30CA\u30B7\u3001\u68A8"
+  - "\u30AF\u30EA\u3001\u6817 "
+  - "\u30E2\u30E2\u3001\u6843"
+  - "\u3070\u3093\u304B\u3001\u8543\u8304"
+  - "\u30B9\u30A4\u30AB\u3001\u897F\u74DC"
+  - "\u305F\u3079\u3082\u306E\u3001\u98DF\u3079\u7269"
+  - "\u3061\u3087\u3046\u3057\u3087\u304F\u3001\u671D\u98DF"
+  - "\u3072\u308B\u3054\u306F\u3093\u3001\u663C\u5FA1\u98EF"
+  - "\u3070\u3093\u3054\u306F\u3093\u3001\u6669\u5FA1\u98EF"
+  - "\u3054\u306F\u3093\u3001\u5FA1\u98EF"
+  - "\u308A\u3087\u3046\u308A\u3001\u6599\u7406"
+  - "\u30B5\u30E9\u30C0"
+  - "\u30C7\u30B6\u30C8"
+  - "\u30D1\u30F3"
+  - "\u30B5\u30F3\u30C9\u30A4\u30C3\u30C1"
+  - "\u30A2\u30A4\u30B9\u30AF\u30EA\u30E0"
+  - "\u305F\u3053\u3084\u304D\u3001\u305F\u3053\u713C\u304D"
+  romajiWord:
+  - kome
+  - yasai
+  - mame
+  - daikon
+  - ninjin
+  - ringo
+  - mikan
+  - banana
+  - nashi
+  - kuri
+  - momo
+  - banka
+  - suika
+  - tabemono
+  - choushoku
+  - hirugohan
+  - bangohan
+  - gohan
+  - ryouri
+  - sarada
+  - dezato
+  - pan
+  - sandoitchi
+  - aisukurimu
+  - takoyaki
+  translatedToPT:
+  - arroz cru
+  - vegetal
+  - "feij\xE3o"
+  - "rabanete japon\xEAs"
+  - cenoura
+  - "ma\xE7\xE3"
+  - tangerina
+  - banana
+  - pera
+  - castanha
+  - "p\xEAssego"
+  - tomate
+  - melancia
+  - comida
+  - "caf\xE9 da manh\xE3"
+  - "almo\xE7o"
+  - jantar
+  - "arroz cozinhado (ou refei\xE7\xE3o)"
+  - cozinhar
+  - salada
+  - sobremesa
+  - "p\xE3o"
+  - "sandu\xEDche"
+  - sorvete
+  - bolinho de polvo
+  translatedToEN:
+  - uncooked rice
+  - vegetable
+  - beans
+  - japanese white radish
+  - carrot
+  - apple
+  - mandarin orange
+  - banana
+  - pear
+  - chestnut tree
+  - peach
+  - tomato
+  - watermelon
+  - food
+  - breakfast
+  - lunch
+  - dinner
+  - cooked rice or meal
+  - cooking
+  - salad
+  - dessert
+  - bread
+  - sandwich
+  - ice cream
+  - octopus dumpling

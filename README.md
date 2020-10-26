@@ -1,2 +1,0 @@
-# supaisu
-Japanese trainer
