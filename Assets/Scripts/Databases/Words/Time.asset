@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 519a3327266460146a780d15d71c7369, type: 3}
+  m_Name: Time
+  m_EditorClassIdentifier: 
+  alphabet: 
+  kanaWord:
+  - "\u3058\u304B\u3093\u3001\u6642\u9593"
+  - "\u3068\u304D\u3001\u6642"
+  - "\u3075\u3093\u3001\u5206"
+  - "\u3073\u3087\u3046\u3001\u79D2"
+  - "\u3072\u3001\u65E5"
+  - "\u3064\u304D\u3001\u6708"
+  - "\u3068\u3057\u3001\u5E74 "
+  - "\u304D\u3087\u3046\u3001\u4ECA\u65E5"
+  - "\u3042\u3057\u305F\u3001\u660E\u65E5"
+  - "\u3042\u3055\u3001\u671D"
+  - "\u3072\u308B\u3001\u663C"
+  - "\u3086\u3046\u304C\u305F\u3001\u5915\u65B9"
+  - "\u3070\u3093\u3001\u6669"
+  - "\u3088\u308B\u3001\u591C"
+  - "\u3072\u3001\u65E5"
+  - "\u3057\u3085\u3046\u304B\u3093\u3001\u9031\u9593"
+  - "\u3044\u3061\u304C\u3064\u3001\u4E00\u6708"
+  - "\u306B\u304C\u3064\u3001\u4E8C\u6708"
+  - "\u3055\u3093\u304C\u3064\u3001\u4E09\u6708"
+  - "\u3057\u304C\u3064\u3001\u56DB\u6708"
+  - "\u3054\u304C\u3064\u3001\u4E94\u6708"
+  - "\u308D\u304F\u304C\u3064\u3001\u516D\u6708"
+  - "\u3057\u3061\u304C\u3064\u3001\u4E03\u6708"
+  - "\u306F\u3061\u304C\u3064\u3001\u516B\u6708"
+  - "\u304F\u304C\u3064\u3001\u4E5D\u6708"
+  - "\u3058\u3085\u3046\u304C\u3064\u3001\u5341\u6708"
+  - "\u3058\u3085\u3044\u3061\u3042\u3064\u3001\u5341\u4E00\u6708"
+  - "\u3058\u3085\u3046\u306B\u304C\u3064\u3001\u5341\u4E8C\u6708"
+  romajiWord:
+  - jikan
+  - toki
+  - fun
+  - byou
+  - hi
+  - tsuki
+  - toshi
+  - kyou
+  - ashita
+  - asa
+  - hiru
+  - yuugata
+  - ban
+  - yoru
+  - hi
+  - shuukan
+  - ichigatsu
+  - nigatsu
+  - sangatsu
+  - shigatsu
+  - gogatsu
+  - rokugatsu
+  - shichigatsu
+  - hachigatsu
+  - kugatsu
+  - juugatsu
+  - juuichigatsu
+  - juunigatsu
+  translatedToPT:
+  - tempo
+  - ~horas (passadas)
+  - minuto
+  - segundo
+  - dia
+  - "m\xEAs"
+  - ano
+  - hoje
+  - "amanh\xE3"
+  - "de manh\xE3"
+  - meio dia
+  - "de tarde (ap\xF3s meio dia)"
+  - de tarde (perto da noite)
+  - noite
+  - dia
+  - semana
+  - janeiro
+  - fevereiro
+  - "mar\xE7o"
+  - abril
+  - maio
+  - junho
+  - julho
+  - agosto
+  - setembro
+  - outubro
+  - novembro
+  - dezembro
+  translatedToEN:
+  - time
+  - ~hours
+  - minute
+  - second
+  - day
+  - month
+  - year
+  - today
+  - tomorrow
+  - morning
+  - afternoon
+  - evening
+  - evening
+  - night
+  - day
+  - week
+  - january
+  - febuary
+  - march
+  - april
+  - may
+  - june
+  - july
+  - august
+  - september
+  - october
+  - november
+  - december
