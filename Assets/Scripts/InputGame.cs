@@ -43,23 +43,28 @@ namespace PedroArthur
         int wordCount;
         int points;
         int chosenIndex, lastChosenIndex;
+
+        TouchScreenKeyboard keyboard;
         #endregion
 
         #region MonoBehaviour methods
         void Awake()
         {
-            Debug.Log(kanaDatabase.tempList.Count);
-            language = "english";
+            
+            language = "portuguese";
         }
         void Start()
         {
             GetLists();
             Randomize();
+            OpenKeyboard();
+            Debug.Log(" asjmasokasokas" + kanaDatabase.tempList.Count);
         }
         void Update()
         {
-            if (Input.GetKeyDown(KeyCode.Return))
+            if ((Input.GetKeyDown(KeyCode.Return)) || (Input.GetKeyDown(KeyCode.KeypadEnter)) || keyboard.status == TouchScreenKeyboard.Status.Done)
             {
+                inputText.ActivateInputField();
                 SetString();
                 Verification();
                 Randomize();
@@ -73,6 +78,12 @@ namespace PedroArthur
         #endregion
 
         #region Custom methods
+        void OpenKeyboard()
+        {
+            keyboard = TouchScreenKeyboard.Open("", TouchScreenKeyboardType.Default, false, false, false, false);
+            inputText.ActivateInputField();
+            TouchScreenKeyboard.hideInput = true;
+        }
         void GetLists()
         {
             #region Clearing lists 
@@ -80,13 +91,17 @@ namespace PedroArthur
             finalListRomaji.Clear();
             #endregion
 
+            Debug.Log(kanaDatabase.tempList.Count);
+
             for (int i = 0; i < kanaDatabase.tempList.Count; i++)
             {
                 finalDatabase.Add(kanaDatabase.tempList[i]);
             }
             for (int j = 0; j < kanaDatabase.tempList.Count; j++)
             {
-                for (int i = 0; i < kanaDatabase.tempList.Count; i++)
+                
+            }
+            for (int i = 0; i < kanaDatabase.tempList.Count; i++)
                 {
                     wordCount++;
 
@@ -103,7 +118,6 @@ namespace PedroArthur
                         finalENTranslationList.AddRange(finalDatabase[i].translatedToEN);
                     }
                 }
-            }
             for (int i = 0; i < finalListKana.Count; i++)
             {
                 finalListKana[i] = finalListKana[i].Replace("、", "\n");
@@ -119,7 +133,7 @@ namespace PedroArthur
         public void Randomize()
         {
             chosenIndex = Random.Range(0, finalListKana.Count);
-            Debug.Log(chosenIndex);
+            // Debug.Log(chosenIndex);
             if (chosenIndex == lastChosenIndex)
             {
                 Randomize();
