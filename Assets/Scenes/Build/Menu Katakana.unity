@@ -975,14 +975,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e56e884e52bb31345a7b3f9104d59584, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 17e23c5f0f72fb04d878db5d7d3f846f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2003,8 +2003,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 114.75
+  m_fontSizeBase: 114.75
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3069,7 +3069,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e9a5a0ce84258fd4282f3dcab645c1df, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 17e23c5f0f72fb04d878db5d7d3f846f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3999,7 +3999,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.07058824, g: 0.07058824, b: 0.07058824, a: 0}
+  m_BackGroundColor: {r: 0, g: 0.015686275, b: 0.12156863, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -5706,7 +5706,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e9a5a0ce84258fd4282f3dcab645c1df, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 17e23c5f0f72fb04d878db5d7d3f846f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9146,8 +9146,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21.1
-  m_fontSizeBase: 21.1
+  m_fontSize: 19.9
+  m_fontSizeBase: 19.9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -11494,7 +11494,7 @@ MonoBehaviour:
   toggles: []
   temporayDatabase: {fileID: 11400000, guid: f9ffef98dae51984391c07fd05a6ca69, type: 2}
   scene1: Japanese 3
-  scene2: Japanese 4
+  scene2: Japanese 5
   panel: {fileID: 981307754}
   smallDB1: {fileID: 11400000, guid: 7e225a1f1447466498044ff04c3b7450, type: 2}
   smallDB2: {fileID: 11400000, guid: ea715080dd30c884da0a88ee655bd8bb, type: 2}
@@ -15513,8 +15513,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 965.3335, y: -21.600098}
-  m_SizeDelta: {x: 3385, y: 2266.6191}
+  m_AnchoredPosition: {x: 934.2, y: -11.6}
+  m_SizeDelta: {x: 3346.0317, y: 2291.361}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1699125042
 MonoBehaviour:

@@ -1,6 +1,7 @@
 ﻿#region Libraries
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 #endregion
@@ -10,9 +11,16 @@ namespace PedroArthur
     {
         #region Variables
         [SerializeField] string hiraganaScene, katakanaScnene;
+        [SerializeField] Dropdown dropdown;
+        int dropdownValue;
+        public string lang;
         #endregion
 
         #region MonoBehaviour methods
+        void Awake()
+        {
+            lang = "english";
+        }
         #endregion
 
         #region Custom methods
@@ -23,6 +31,23 @@ namespace PedroArthur
         public void KatakanaScene()
         {
             SceneManager.LoadScene(katakanaScnene);
+        }
+        public void FuriganaScene()
+        {
+            SceneManager.LoadScene("Japanese Input Text");
+        }
+        public void HandleDropdown(int value)
+        {
+            if (value == 0)
+            {
+                lang = "english";
+                PlayerPrefs.SetString("lang", "english");
+            }
+            else
+            {
+                lang = "portuguese";
+                PlayerPrefs.SetString("lang", "portuguese");
+            }
         }
         #endregion
     }

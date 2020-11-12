@@ -21,14 +21,13 @@ namespace PedroArthur
         [SerializeField] DatabaseDatabase mistakesList;
 
         [Tooltip("'TMPro' assets in-scene")]
-        [SerializeField] TextMeshProUGUI tmpCorrectHiragana, pontuation, hits, misses;
+        [SerializeField] TextMeshProUGUI tmpCorrectHiragana, hits, misses;
         [Tooltip("Buttons in-game")]
         [SerializeField] Button button1, button2, button3, button4;
 
         [Space(10)]
         [SerializeField] float startTimer = 10;
         [Space(10)]
-        [SerializeField] Slider slider;
         [SerializeField] GameObject hitUI, missUI;
         [Space(20)]
         [SerializeField] DatabaseDatabase tmpDatabase;
@@ -60,6 +59,7 @@ namespace PedroArthur
 
         void Awake()
         {
+            Debug.Log(this.gameObject.name);
             Debug.Log(tmpDatabase.tempList[0].language);
             if (tmpDatabase.tempList[0].language == "Hiragana")
             {
@@ -103,11 +103,8 @@ namespace PedroArthur
         }
         void Update()
         {
-            time = time - Time.deltaTime;
-            slider.value = time;
-            pontuation.text = points.ToString() + " Points";
-            hits.text = "Hits: " + hitCount.ToString();
-            misses.text = "Misses: " + missCount.ToString();
+            hits.text = hitCount.ToString();
+            misses.text = missCount.ToString();
 
             if (Application.platform == RuntimePlatform.Android)
             {
@@ -159,8 +156,6 @@ namespace PedroArthur
                 else
                 {
                     hitCount++;
-                    points += Mathf.RoundToInt(time);
-                    slider.value = startTimer;
                     time = startTimer;
                     Randomize();
                 }
@@ -173,7 +168,6 @@ namespace PedroArthur
                 missCount++;
                 if (time <= 0) { points -= 10; }
                 points -= Mathf.RoundToInt(time);
-                slider.value = startTimer;
                 time = startTimer;
                 Randomize();
             }
@@ -224,20 +218,20 @@ namespace PedroArthur
                         button1.GetComponentInChildren<TextMeshProUGUI>().text = key;
                         button2.GetComponentInChildren<TextMeshProUGUI>().text = fake1;
                         button3.GetComponentInChildren<TextMeshProUGUI>().text = fake2;
-                        button4.GetComponentInChildren<TextMeshProUGUI>().text = fake3;
+                        // button4.GetComponentInChildren<TextMeshProUGUI>().text = fake3;
                         break;
                     case 2:
                         button2.GetComponentInChildren<TextMeshProUGUI>().text = key;
                         button1.GetComponentInChildren<TextMeshProUGUI>().text = fake1;
                         button3.GetComponentInChildren<TextMeshProUGUI>().text = fake2;
-                        button4.GetComponentInChildren<TextMeshProUGUI>().text = fake3;
+                        // button4.GetComponentInChildren<TextMeshProUGUI>().text = fake3;
 
                         break;
                     case 3:
                         button3.GetComponentInChildren<TextMeshProUGUI>().text = key;
                         button2.GetComponentInChildren<TextMeshProUGUI>().text = fake1;
                         button1.GetComponentInChildren<TextMeshProUGUI>().text = fake2;
-                        button4.GetComponentInChildren<TextMeshProUGUI>().text = fake3;
+                        // button4.GetComponentInChildren<TextMeshProUGUI>().text = fake3;
 
                         break;
                 }

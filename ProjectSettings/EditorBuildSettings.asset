@@ -5,25 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Build/Main Menu.unity
     guid: 3ed018feb1929c3409ae8bde33b14505
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Build/Menu Hiragana.unity
     guid: 81562abd6c9a2304396af4e4d348001e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Build/Menu Katakana.unity
     guid: 71b88f27ac531f24e914a9688b2575f9
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Build/Japanese 3.unity
     guid: 05a066b98db48a54595b082ccbb84f2c
   - enabled: 1
     path: Assets/Scenes/Build/Japanese 4.unity
     guid: f7005473a29eba44cb12d4a705434bc3
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Build/Final.unity
     guid: 110dd3cfa47abcd4baf995c07ca2a43c
   - enabled: 1
     path: Assets/Scenes/Build/Japanese Input Text.unity
     guid: 58dad0220fbaa79448b72a14bdf1012c
+  - enabled: 1
+    path: Assets/Scenes/Build/Japanese 5.unity
+    guid: bb27e965c2b5cfa45a1b24d582e4e445
   m_configObjects: {}

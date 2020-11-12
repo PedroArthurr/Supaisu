@@ -51,7 +51,7 @@ namespace PedroArthur
         void Awake()
         {
             
-            language = "portuguese";
+            language = PlayerPrefs.GetString("lang");
         }
         void Start()
         {
