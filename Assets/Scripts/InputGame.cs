@@ -58,7 +58,6 @@ namespace PedroArthur
             GetLists();
             Randomize();
             OpenKeyboard();
-            Debug.Log(" asjmasokasokas" + kanaDatabase.tempList.Count);
         }
         void Update()
         {
