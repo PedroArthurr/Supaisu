@@ -1,4 +1,5 @@
 {
+    "omnisharp.enableEditorConfigSupport": true,
     "editor.fontSize": 20,
     "editor.autoClosingQuotes": "always",
     "editor.codeActionsOnSave": null,

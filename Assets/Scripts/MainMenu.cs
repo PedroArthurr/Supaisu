@@ -24,6 +24,10 @@ namespace PedroArthur
         #endregion
 
         #region Custom methods
+        public void MenuScene()
+        {
+            SceneManager.LoadScene("Main Menu");
+        }
         public void HiraganaScene()
         {
             SceneManager.LoadScene(hiraganaScene);

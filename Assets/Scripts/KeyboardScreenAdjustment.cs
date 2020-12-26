@@ -1,8 +1,5 @@
 ﻿#region Libraries
 using UnityEngine;
-using TMPro;
-using System.Collections;
-using System.Collections.Generic;
 #endregion
 namespace PedroArthur
 {

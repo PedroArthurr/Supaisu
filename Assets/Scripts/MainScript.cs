@@ -16,7 +16,7 @@ namespace PedroArthur
         [Header("'Results' Scene name")]
         [SerializeField] string nextSceneName;
 
-        [Tooltip("Sriptable Objects for next Scene")]
+        [Tooltip("Scriptable Objects for next Scene")]
         [SerializeField] FinalInfo mistakeString;
         [SerializeField] DatabaseDatabase mistakesList;
 
