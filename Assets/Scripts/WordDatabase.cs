@@ -26,16 +26,5 @@ public class WordDatabase : ScriptableObject
               kanaWord[i].Replace(">","\n");
           }
         }
-        #region Comentarios e créditos
-        /*
-          ■
-          ╔══════════════════════════════════════════════════════|>
-          ║IG: @pedro.arthur.pa 
-          ║Twitter: @PedroArthurPA
-          ║Itch.io: Supaisu
-          ╚══════════════════════════════════════════════════════|>
-          ■
-        */
-        #endregion
-    }
+  }
 }

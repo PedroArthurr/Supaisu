@@ -5,6 +5,8 @@ using TMPro;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEngine.Serialization;
+
 #endregion
 namespace PedroArthur
 {
@@ -21,7 +23,7 @@ namespace PedroArthur
         [SerializeField] Button comfirmButton;
         [SerializeField] TMP_InputField inputText;
         [SerializeField] TextMeshProUGUI kanaText;
-        [SerializeField] TextMeshProUGUI ui_Translation;
+        [FormerlySerializedAs("ui_Translation")] [SerializeField] TextMeshProUGUI uiTranslation;
         [SerializeField] Toggle showHideTranslation;
         [SerializeField] Image blockImage;//block the view of the translation
         [SerializeField] GameObject hitUI, missUI;
@@ -34,23 +36,22 @@ namespace PedroArthur
 
         public List<string> finalListRomaji = new List<string>();
         public List<string> finalListKana = new List<string>();
-        public List<string> finalPTTranslationList = new List<string>();
-        public List<string> finalENTranslationList = new List<string>();
-        List<WordDatabase> finalDatabase = new List<WordDatabase>();
+        [FormerlySerializedAs("finalPTTranslationList")] public List<string> finalPtTranslationList = new List<string>();
+        [FormerlySerializedAs("finalENTranslationList")] public List<string> finalEnTranslationList = new List<string>();
+        List<WordDatabase> _finalDatabase = new List<WordDatabase>();
 
 
-        string textGivenByUser = "";
-        int wordCount;
-        int points;
-        int chosenIndex, lastChosenIndex;
+        string _textGivenByUser = "";
+        int _wordCount;
+        int _points;
+        int _chosenIndex, _lastChosenIndex;
 
-        TouchScreenKeyboard keyboard;
+        TouchScreenKeyboard _keyboard;
         #endregion
 
         #region MonoBehaviour methods
         void Awake()
         {
-            
             language = PlayerPrefs.GetString("lang");
         }
         void Start()
@@ -61,7 +62,7 @@ namespace PedroArthur
         }
         void Update()
         {
-            if ((Input.GetKeyDown(KeyCode.Return)) || (Input.GetKeyDown(KeyCode.KeypadEnter)) || keyboard.status == TouchScreenKeyboard.Status.Done)
+            if ((Input.GetKeyDown(KeyCode.Return)) || (Input.GetKeyDown(KeyCode.KeypadEnter)) || _keyboard.status == TouchScreenKeyboard.Status.Done)
             {
                 inputText.ActivateInputField();
                 SetString();
@@ -79,7 +80,7 @@ namespace PedroArthur
         #region Custom methods
         void OpenKeyboard()
         {
-            keyboard = TouchScreenKeyboard.Open("", TouchScreenKeyboardType.Default, false, false, false, false);
+            _keyboard = TouchScreenKeyboard.Open("", TouchScreenKeyboardType.Default, false, false, false, false);
             inputText.ActivateInputField();
             TouchScreenKeyboard.hideInput = true;
         }
@@ -94,69 +95,69 @@ namespace PedroArthur
 
             for (int i = 0; i < kanaDatabase.tempList.Count; i++)
             {
-                finalDatabase.Add(kanaDatabase.tempList[i]);
-            }
-            for (int j = 0; j < kanaDatabase.tempList.Count; j++)
-            {
-                
+                _finalDatabase.Add(kanaDatabase.tempList[i]);
             }
             for (int i = 0; i < kanaDatabase.tempList.Count; i++)
-                {
-                    wordCount++;
+            {
+                    _wordCount++;
 
-                    finalListKana.AddRange(finalDatabase[i].kanaWord);
+                    finalListKana.AddRange(_finalDatabase[i].kanaWord);
 
-                    finalListRomaji.AddRange(finalDatabase[i].romajiWord);
+                    finalListRomaji.AddRange(_finalDatabase[i].romajiWord);
 
-                    if (language == "portuguese")
+                    switch (language)
                     {
-                        finalPTTranslationList.AddRange(finalDatabase[i].translatedToPT);
+                        case "portuguese":
+                            finalPtTranslationList.AddRange(_finalDatabase[i].translatedToPT);
+                            break;
+                        case "english":
+                            finalEnTranslationList.AddRange(_finalDatabase[i].translatedToEN);
+                            break;
                     }
-                    if (language == "english")
-                    {
-                        finalENTranslationList.AddRange(finalDatabase[i].translatedToEN);
-                    }
-                }
+            }
             for (int i = 0; i < finalListKana.Count; i++)
             {
                 finalListKana[i] = finalListKana[i].Replace("、", "\n");
             }
 
-            finalDatabase.Clear();
+            _finalDatabase.Clear();
         }
-        public void SetString()
+        void SetString()
         {
-            textGivenByUser = inputText.text.ToLower();
+            _textGivenByUser = inputText.text.ToLower();
             inputText.text = null;
         }
-        public void Randomize()
+
+        void Randomize()
         {
-            chosenIndex = Random.Range(0, finalListKana.Count);
+            _chosenIndex = Random.Range(0, finalListKana.Count);
             // Debug.Log(chosenIndex);
-            if (chosenIndex == lastChosenIndex)
+            if (_chosenIndex == _lastChosenIndex)
             {
                 Randomize();
             }
             else
             {
-                kanaText.text = finalListKana[chosenIndex];
-                if (language == "portuguese")
+                kanaText.text = finalListKana[_chosenIndex];
+                switch (language)
                 {
-                    ui_Translation.text = finalPTTranslationList[chosenIndex];
-                }
-                if (language == "english")
-                {
-                    ui_Translation.text = finalENTranslationList[chosenIndex];
+                    case "portuguese":
+                        uiTranslation.text = finalPtTranslationList[_chosenIndex];
+                        break;
+                    case "english":
+                        uiTranslation.text = finalEnTranslationList[_chosenIndex];
+                        break;
                 }
             }
-            lastChosenIndex = chosenIndex;
+            _lastChosenIndex = _chosenIndex;
         }
-        public void Verification()
-        {
-            if (textGivenByUser == "") return;
-            Debug.Log(textGivenByUser);
 
-            if (textGivenByUser == finalListRomaji[chosenIndex])
+        void Verification()
+        {
+            if (_textGivenByUser == "") return;
+            Debug.Log(_textGivenByUser);
+
+            if (_textGivenByUser == finalListRomaji[_chosenIndex])
             {
                 Hit();
             }
@@ -166,12 +167,13 @@ namespace PedroArthur
             }
         }
 
-        public void Hit()
+        void Hit()
         {
             GameObject newUIHit =
             GameObject.Instantiate(hitUI, new Vector3(Screen.width * 0.5f, Screen.height * 0.5f, 0), Quaternion.identity, canvas.transform);
         }
-        public void Miss()
+
+        void Miss()
         {
             GameObject newUIHit =
             GameObject.Instantiate(missUI, new Vector3(Screen.width * 0.5f, Screen.height * 0.5f, 0), Quaternion.identity, canvas.transform);

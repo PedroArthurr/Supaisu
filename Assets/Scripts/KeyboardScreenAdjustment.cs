@@ -1,4 +1,6 @@
 ﻿#region Libraries
+
+using System;
 using UnityEngine;
 #endregion
 namespace PedroArthur
@@ -13,9 +15,11 @@ namespace PedroArthur
         void LateUpdate()
         {
 #if UNITY_ANDROID
-            panel.gameObject.GetComponent<RectTransform>().transform.position = new Vector3(539, GetKeyboardHeight(true) / 5f, 0);
+            try
+            {
+                panel.gameObject.GetComponent<RectTransform>().transform.position = new Vector3(539, GetKeyboardHeight(true) / 5f, 0);
+            } catch {}
 #endif
-            //panel.gameObject.transform.position = Vector3.zero;
         }
         #endregion
 
@@ -23,16 +27,16 @@ namespace PedroArthur
         public static int GetKeyboardHeight(bool includeInput)
         {
 #if UNITY_ANDROID
-            using (var unityClass = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
+            using (AndroidJavaObject unityClass = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
             {
-                var unityPlayer = unityClass.GetStatic<AndroidJavaObject>("currentActivity").Get<AndroidJavaObject>("mUnityPlayer");
-                var view = unityPlayer.Call<AndroidJavaObject>("getView");
-                var dialog = unityPlayer.Get<AndroidJavaObject>("mSoftInputDialog");
+                AndroidJavaObject unityPlayer = unityClass.GetStatic<AndroidJavaObject>("currentActivity").Get<AndroidJavaObject>("mUnityPlayer");
+                AndroidJavaObject view = unityPlayer.Call<AndroidJavaObject>("getView");
+                AndroidJavaObject dialog = unityPlayer.Get<AndroidJavaObject>("mSoftInputDialog");
 
                 if (view == null || dialog == null)
                     return 0;
 
-                var decorHeight = 0;
+                int decorHeight = 0;
 
                 if (includeInput)
                 {

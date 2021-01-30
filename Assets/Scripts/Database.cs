@@ -1,7 +1,8 @@
 ﻿#region bibliotecas
 using UnityEngine; using System.Collections; using System.Collections.Generic; 
 #endregion
-namespace PedroArthur { 
+namespace PedroArthur
+{ 
 [CreateAssetMenu(fileName = "New Database", menuName = ("Database"))]
 public class Database : ScriptableObject
   {

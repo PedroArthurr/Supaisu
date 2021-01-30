@@ -9,16 +9,6 @@ public class DatabaseDatabase : ScriptableObject
 
         public List<Database> tempList = new List<Database>();
         #endregion
-        #region Comentarios e créditos
-        /*
-          ■
-          ╔══════════════════════════════════════════════════════|>
-          ║IG: @pedro.arthur.pa 
-          ║Twitter: @PedroArthurDev
-          ║Itch.io: PedroArthur
-          ╚══════════════════════════════════════════════════════|>
-          ■
-        */
-        #endregion
+        
     }
 }
